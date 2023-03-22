@@ -1,0 +1,11 @@
+name: Nanouniverse
+description: Just a small part of the nanouniverse. Forum @vkonfe | Channel @nanouniverse
+image: "https://i.ibb.co/RQCb2rB/nanofinal.webp"
+address: 0:fefaa82cfd8d67f39d710a2badabe73355f2cd80044f0027b7c4dec2343a2cd9
+symbol: NANO
+max_supply: 1500000000
+websites:
+  - "nanouniverse.ton"
+social:
+  - "https://t.me/vkonfe"
+  - "https://t.me/nanouniverse"
